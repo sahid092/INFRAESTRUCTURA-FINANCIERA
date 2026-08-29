@@ -70,3 +70,14 @@ Ejemplo de estructura para relacionar el backlog con las fuentes de financiamien
 [⬆️ volver al índice](#índice--financiamientomd)
 
 ---
+## 4. El hueco honesto
+
+Al 28 de agosto de 2026, la investigación muestra un hueco real: el equipo **no ha verificado si el streaming continuo de Drips (Drip Lists) es compatible de forma nativa con Stellar/Soroban**. Lo confirmado es que ese streaming corre sobre Ethereum/EVM, y que la única integración de Drips con Stellar hoy es Drips Wave, que paga tareas de GitHub, no financiamiento continuo por dependencias.
+
+**Plan para cerrarlo:** contactar al equipo de Drips (Discord o docs.drips.network) para confirmar si existe o está planeada una ruta de streaming compatible con Soroban, o si por ahora la única opción realista es combinar Drips Wave (recompensas puntuales) con una tesorería paralela en Ethereum/EVM para el streaming continuo.
+
+> **Fecha estimada de cierre:** [definir con el equipo].
+
+[⬆ volver al índice](#índice--financiamientomd)
+
+---
