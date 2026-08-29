@@ -81,3 +81,10 @@ Al 28 de agosto de 2026, la investigación muestra un hueco real: el equipo **no
 [⬆ volver al índice](#índice--financiamientomd)
 
 ---
+## 5. Uso de fuentes primarias, incluidas en inglés
+
+1. Stellar Development Foundation, *SCF Handbook — Build Award* — https://stellar.gitbook.io/scf-handbook/scf-awards/build-award (inglés)
+2. Stellar Development Foundation, *SCF Handbook — Submission Criteria* — https://stellar.gitbook.io/scf-handbook/scf-awards/build-award/submission-criteria (inglés)
+3. Drips Network, *Introduction* — https://docs.drips.network/ (inglés)
+4. Drips Network, *Claim your open-source project* — https://docs.drips.network/get-support/claim-your-repository/ (inglés)
+5. Drips Network, *Participating in a Wave* — https://docs.drips.network/wave/maintainers/participating-in-a-wave/ (inglés)
