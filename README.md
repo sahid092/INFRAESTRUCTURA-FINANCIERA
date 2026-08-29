@@ -56,3 +56,17 @@ El **Stellar Community Fund (SCF)** es el programa oficial de becas de la Stella
 [⬆ volver al índice](#índice--financiamientomd)
 
 ---
+## 3. Backlog por fases ligado al financiamiento
+
+Ejemplo de estructura para relacionar el backlog con las fuentes de financiamiento investigadas. Sustituyan los corchetes con las fases reales de su proyecto:
+
+| Fase | Objetivo del backlog | Financiamiento | Justificación |
+|---|---|---|---|
+| Fase 1: Fundación | [MVP funcional en testnet] | SCF Build — Track Open, 1er tramo | El primer tramo está pensado para llevar un proyecto validado a un MVP demostrable. |
+| Fase 2: Comunidad | [Abrir issues a colaboradores] | Drips Wave (Stellar) | Wave paga por resolver issues puntuales y liquida en Stellar, sin requerir un Drip List propio. |
+| Fase 3: Mainnet | [Despliegue en Stellar Mainnet] | SCF Build, tramos 3–4 | Los tramos finales se liberan al validar hitos de lanzamiento, el criterio que evalúa el panel. |
+| Fase 4: Sostenibilidad | [Financiamiento continuo de mantenimiento] | Drip List (Ethereum/EVM) | Streaming continuo de dependencias una vez reclamado el repo — canal adicional, no en Stellar. |
+
+[⬆️ volver al índice](#índice--financiamientomd)
+
+---
