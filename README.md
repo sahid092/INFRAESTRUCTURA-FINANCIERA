@@ -34,4 +34,25 @@ El **Stellar Community Fund (SCF)** es el programa oficial de becas de la Stella
 [⬆ volver al índice](#índice--financiamientomd)
 
 ---
+## 2. Funcionamiento de Drips Protocol
 
+**Drips** es un protocolo de contratos inteligentes desplegado sobre Ethereum y redes compatibles con EVM (Ethereum mainnet, Optimism, Metis y Filecoin), pensado para financiar de forma continua proyectos de código abierto. No pertenece a Stellar Development Foundation; se integra con GitHub.
+
+**Cómo funciona el streaming:**
+* Cualquiera puede crear una **Drip List**: hasta 200 repositorios de GitHub, direcciones Ethereum u otras Drip Lists, cada una con un porcentaje asignado.
+* Los fondos se transmiten como un **flujo continuo por segundo** de cualquier token ERC-20, modificable o detenible en cualquier momento.
+* El flujo se **liquida periódicamente** (mensual en Ethereum mainnet, diario en otras redes) y se reparte automáticamente, propagándose hacia las dependencias declaradas.
+
+**Qué se necesita para recibir fondos:**
+1. Un repositorio de código abierto en GitHub (o uno vacío, si solo se quiere representar a la organización).
+2. Publicar un archivo `FUNDING.json` en la rama por defecto, con la dirección Ethereum a verificar on-chain.
+3. Una billetera Ethereum con algo de ETH para el gas del reclamo (en redes como Filecoin, Drips puede cubrirlo).
+4. Configurar el porcentaje repartido entre mantenedores y dependencias.
+
+**Límites importantes:** máximo 200 destinatarios por Drip List. El streaming **no opera de forma nativa en Stellar/Soroban** — corre en Ethereum/EVM. La única integración confirmada con Stellar es **Drips Wave**: ciclos semanales de recompensas por resolver issues de GitHub, financiados por SDF y liquidados en Stellar, distinto del streaming continuo.
+
+> **Fuente:** Drips Network, *Introduction* y *Claim your open-source project*, https://docs.drips.network/ — consultado 26/08/2026.
+
+[⬆ volver al índice](#índice--financiamientomd)
+
+---
